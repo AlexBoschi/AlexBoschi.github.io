@@ -238,6 +238,9 @@ exclude:
   - vendor
   - _news/announcement_*.md
   - _pages/blog.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/cv.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
