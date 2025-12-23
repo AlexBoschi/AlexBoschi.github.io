@@ -8,8 +8,8 @@ profile:
   align: right
   image: Boschi_pic.jpg
   image_circular: false # crops the image to make it circular
+{% comment %}  
   more_info: >
-{% comment %}
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
