@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='#'>Postdoc Researcher</a> based in Pisa (🇪🇺, 🇮🇹)
 
 profile:
-  align: right
+  align: left
   image: Boschi_pic.jpg
-  image_circular: false # crops the image to make it circular 
+  image_circular: true # crops the image to make it circular 
   more_info: >
     # <p>555 your office number</p>
     # <p>123 your address street</p>
