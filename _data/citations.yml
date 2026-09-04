@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-09-04'
 papers:
   Jd6FYrcAAAAJ:2osOgNQ5qMEC:
-    citations: 114
+    citations: 116
     title: 'Benchmarking of graphene-based materials: real commercial products versus ideal graphene'
     year: '2019'
   Jd6FYrcAAAAJ:9yKSN-GCB0IC:
@@ -10,15 +10,19 @@ papers:
     title: Multimodal sensing in rewritable, data matrix azobenzene-based devices
     year: '2022'
   Jd6FYrcAAAAJ:IjCSPb-OGe4C:
-    citations: 23
+    citations: 25
     title: "Decoupled High\u2010Mobility Graphene on Cu (111)/Sapphire via Chemical Vapor Deposition"
     year: '2024'
+  Jd6FYrcAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Direct Observation of Flat Bands in Near-Magic-Angle Twisted Bilayer CVD Graphene
+    year: '2026'
   Jd6FYrcAAAAJ:Tyk-4Ss8FVUC:
     citations: 14
     title: "Insight on the Intracellular Supramolecular Assembly of DTTO: A Peculiar Example of Cell\u2010Driven Polymorphism"
     year: '2023'
   Jd6FYrcAAAAJ:UeHWp8X0CEIC:
-    citations: 61
+    citations: 62
     title: Graphene oxide nanosheets for drinking water purification by tandem adsorption and microfiltration
     year: '2022'
   Jd6FYrcAAAAJ:W7OEmFMy1HYC:
@@ -30,7 +34,7 @@ papers:
     title: 'Multiscale charge transport in van der Waals thin films: Reduced graphene oxide as a case study'
     year: '2021'
   Jd6FYrcAAAAJ:YsMSGLbcyi4C:
-    citations: 1
+    citations: 2
     title: Integrated twisted bilayer graphene photonic upconverter for D-Band wireless links
     year: '2024'
   Jd6FYrcAAAAJ:_FxGoFyzp5QC:
@@ -46,11 +50,11 @@ papers:
     title: Integrated high speed graphene photodetectors for sub-THz links in the D-Band
     year: '2024'
   Jd6FYrcAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: Ultrafast Charge Carrier Dynamics in Vanadium-Modified TiO2 Thin Films and Its Relation to Their Photoelectrocatalytic Efficiency for Water Splitting
     year: '2020'
   Jd6FYrcAAAAJ:u5HHmVD_uO8C:
-    citations: 15
+    citations: 16
     title: Built-in Bernal gap in large-angle-twisted monolayer-bilayer graphene
     year: '2024'
   Jd6FYrcAAAAJ:ufrVoPGSRksC:
